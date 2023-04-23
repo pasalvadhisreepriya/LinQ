@@ -1,0 +1,15 @@
+/home/pasalvadhi.sreepriya/Desktop/LinQ/bin/Debug/net7.0/LinQ
+/home/pasalvadhi.sreepriya/Desktop/LinQ/bin/Debug/net7.0/LinQ.deps.json
+/home/pasalvadhi.sreepriya/Desktop/LinQ/bin/Debug/net7.0/LinQ.runtimeconfig.json
+/home/pasalvadhi.sreepriya/Desktop/LinQ/bin/Debug/net7.0/LinQ.dll
+/home/pasalvadhi.sreepriya/Desktop/LinQ/bin/Debug/net7.0/LinQ.pdb
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/LinQ.csproj.AssemblyReference.cache
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/LinQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/LinQ.AssemblyInfoInputs.cache
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/LinQ.AssemblyInfo.cs
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/LinQ.csproj.CoreCompileInputs.cache
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/LinQ.dll
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/refint/LinQ.dll
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/LinQ.pdb
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/LinQ.genruntimeconfig.cache
+/home/pasalvadhi.sreepriya/Desktop/LinQ/obj/Debug/net7.0/ref/LinQ.dll
